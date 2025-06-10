@@ -5,7 +5,7 @@
 # 15-8-2024
 # Last mod by DevJan : added loop for replay
 print("MasterMind")
-
+print("Niek is the best!")
 import random
 
 def generate_Code(length=4, digits=6):
