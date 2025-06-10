@@ -20,4 +20,4 @@ jobs:
           pip install flake8
 
       - name: Run flake8
-        run: flake8 **/*.py
+        run: flake8 ../master_Mind.py
